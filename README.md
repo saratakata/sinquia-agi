@@ -9,15 +9,16 @@ Para rodar os testes baixar o código na máquina e rodar a classe preteste com 
 
 
 Esta é apenas a base inicial de uma automação.
+
 Feito com  java 8, selenium e junit.
 
 
-Estrutura:
+## Estrutura:
 
-/teste-qa/browser: Localização do chromedriver.
-/teste-qa/cenarios: Cenários mapeados.
-/teste-qa/evidencias: Pasta onde são salvos os relatórios de cada teste.
-/teste-qa/properties: Onde ficam salvos os arquivos de propriedades.
+* /teste-qa/browser: Localização do chromedriver.
+* /teste-qa/cenarios: Cenários mapeados.
+* /teste-qa/evidencias: Pasta onde são salvos os relatórios de cada teste.
+* /teste-qa/properties: Onde ficam salvos os arquivos de propriedades.
 
-/teste-qa/src/test/java/br/com/agi/teste_qa/test/preteste.java: Clase onde estão os testes, devendo ser derivadas em outras classe específicas futuramente.
+* /teste-qa/src/test/java/br/com/agi/teste_qa/test/preteste.java: Clase onde estão os testes, devendo ser derivadas em outras classe específicas futuramente.
 
