@@ -1,0 +1,4 @@
+1 - Verificar se ao acessar a homepage a mesma é carregada com sucesso.
+	Será uma validação simples, verificando se um determinado item/texto está sendo exibido.
+	
+2 - Verificar se o primeiro item do "Últimas do Blog Agi" está acessando.
